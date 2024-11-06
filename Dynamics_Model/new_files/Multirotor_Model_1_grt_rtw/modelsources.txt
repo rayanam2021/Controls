@@ -1,2 +1,0 @@
-  Multirotor_Model_1.c
-
